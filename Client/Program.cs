@@ -1,3 +1,4 @@
+global using BYBlazorEcommerce.Shared;
 using BYBlazorEcommerce.Client;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
